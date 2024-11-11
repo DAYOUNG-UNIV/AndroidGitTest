@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     buildFeatures{
-        viewBinding = true
+        viewBinding = false
     }
     defaultConfig {
         applicationId = "com.example.imagedownloadapp"
